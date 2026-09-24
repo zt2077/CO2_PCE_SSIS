@@ -1,0 +1,8 @@
+# Generated calculations and local MATLAB files
+outputs/
+*.asv
+*.m~
+*.mph.lock
+*.mph.recovery/
+.DS_Store
+Thumbs.db
